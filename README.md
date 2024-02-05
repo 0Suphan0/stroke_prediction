@@ -11,6 +11,7 @@ The early diagnosis and management of diseases in medicine have become criticall
 
 ## Dataset Properties
 The data set used contains 5510 data and includes individuals with the following characteristics:
+https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 | id | Gender | Age | Hypertension | Heart Disease | Marital Status  | Occupation | Residence Type | Average Glucose Level | Body Mass Index | Smoking Status | Stroke |
 |--------|----------|-----|---------------|-----------------|----------------|---------|--------------|---------------------------|---------------------|---------------------|-----|
